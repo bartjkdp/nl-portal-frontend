@@ -8,8 +8,8 @@ on:
 
 env:
   GITHUB_REGISTRY: ghcr.io
-  DOCKER_IMAGE_NAME: portal-frontend
-  GITHUB_NAMESPACE: nl-portal
+  DOCKER_IMAGE_NAME: nl-portal-frontend
+  GITHUB_NAMESPACE: bartjkdp
 
 jobs:
   build:
